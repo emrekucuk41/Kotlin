@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "soru": "Bir problemin çözümü için gerekli olan sıralı mantıksal adımların tümüne ne ad verilir?",
+    "secenekler": [
+      "Derleyici (Compiler)",
+      "Algoritma",
+      "Değişken (Variable)",
+      "Döngü (Loop)"
+    ],
+    "dogru_cevap": "Algoritma"
+  },
+  {
+    "id": 2,
+    "soru": "Aşağıdakilerden hangisi web sayfalarının iskeletini oluşturan işaretleme dilidir?",
+    "secenekler": [
+      "HTML",
+      "CSS",
+      "Python",
+      "SQL"
+    ],
+    "dogru_cevap": "HTML"
+  },
+  {
+    "id": 3,
+    "soru": "Yazılımda 'Bug' terimi neyi ifade eder?",
+    "secenekler": [
+      "Bir veri tabanı türünü",
+      "Yazılımdaki bir hatayı veya kusuru",
+      "Güvenlik duvarını",
+      "Hızlı işlemci modunu"
+    ],
+    "dogru_cevap": "Yazılımdaki bir hatayı veya kusuru"
+  },
+  {
+    "id": 4,
+    "soru": "Programlama dillerinde 'Boolean' veri tipi hangi değerleri alabilir?",
+    "secenekler": [
+      "Sadece tam sayılar",
+      "Metin karakterleri",
+      "True (Doğru) veya False (Yanlış)",
+      "Ondalıklı sayılar"
+    ],
+    "dogru_cevap": "True (Doğru) veya False (Yanlış)"
+  },
+  {
+    "id": 5,
+    "soru": "Git versiyon kontrol sisteminde, uzak sunucudaki (repository) dosyaları yerel bilgisayara kopyalamak için hangi komut kullanılır?",
+    "secenekler": [
+      "git commit",
+      "git push",
+      "git clone",
+      "git status"
+    ],
+    "dogru_cevap": "git clone"
+  },
+  {
+    "id": 6,
+    "soru": "Veri yapılarında 'LIFO' (Last In First Out - Son Giren İlk Çıkar) mantığıyla çalışan yapı hangisidir?",
+    "secenekler": [
+      "Kuyruk (Queue)",
+      "Yığın (Stack)",
+      "Ağaç (Tree)",
+      "Dizi (Array)"
+    ],
+    "dogru_cevap": "Yığın (Stack)"
+  },
+  {
+    "id": 7,
+    "soru": "Nesne Yönelimli Programlamada (OOP), bir sınıfın özelliklerini başka bir sınıfa aktarmasına ne denir?",
+    "secenekler": [
+      "Kapsülleme (Encapsulation)",
+      "Çok Biçimlilik (Polymorphism)",
+      "Miras Alma / Kalıtım (Inheritance)",
+      "Soyutlama (Abstraction)"
+    ],
+    "dogru_cevap": "Miras Alma / Kalıtım (Inheritance)"
+  },
+  {
+    "id": 8,
+    "soru": "Bir web sunucusuna istek gönderildiğinde, sayfanın bulunamadığını belirten HTTP durum kodu hangisidir?",
+    "secenekler": [
+      "200",
+      "500",
+      "404",
+      "301"
+    ],
+    "dogru_cevap": "404"
+  },
+  {
+    "id": 9,
+    "soru": "Aşağıdakilerden hangisi ilişkisel bir veritabanından veri çekmek için kullanılan SQL komutudur?",
+    "secenekler": [
+      "UPDATE",
+      "DELETE",
+      "INSERT",
+      "SELECT"
+    ],
+    "dogru_cevap": "SELECT"
+  },
+  {
+    "id": 10,
+    "soru": "Kaynak kodun makine diline çevrilmeden, satır satır okunup çalıştırıldığı diller ne tür dillerdir?",
+    "secenekler": [
+      "Derlenen (Compiled) Diller",
+      "Yorumlanan (Interpreted) Diller",
+      "Makine Dilleri",
+      "Assembly Dilleri"
+    ],
+    "dogru_cevap": "Yorumlanan (Interpreted) Diller"
+  }
+]
